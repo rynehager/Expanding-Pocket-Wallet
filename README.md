@@ -1,7 +1,7 @@
 # Expanding-Pocket-Wallet
 An open design for an expanding two pocket wallet, including laser-cutter or CNC ready Gcode files, which looks a little something like this:
 
-![](https://github.com/rynehager/Expanding=Pocket-Wallet/blob/master/Images/Expanding__Wallet.jpg?raw=true "Delicious")
+![](https://github.com/rynehager/Expanding=Pocket-Wallet/blob/master/Images/Expanding_Wallet.jpg?raw=true "Delicious")
 
 Make sure you have read the license details for this project before you use these designs.
 
