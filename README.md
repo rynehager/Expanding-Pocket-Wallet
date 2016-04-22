@@ -3,6 +3,8 @@ An open design for an expanding two pocket wallet, including laser-cutter or CNC
 
 ![](https://github.com/rynehager/Expanding-Pocket-Wallet/blob/master/Images/Expanding_Wallet.jpg?raw=true "Delicious")
 
+![](https://github.com/rynehager/Expanding-Pocket-Wallet/blob/master/Images/Wallet.jpg?raw=true "Delicious")
+
 Make sure you have read the license details for this project before you use these designs.
 
 [Simplified license avaliable here.](https://creativecommons.org/licenses/by-sa/4.0/)
